@@ -10,4 +10,6 @@ Adds the bloonchipper to btd6
 
 If you edit any files and want to publish this, dont.
 
+DO NOT DOWNLOAD, IS STILL A WORK IN PROGRESS
+
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
