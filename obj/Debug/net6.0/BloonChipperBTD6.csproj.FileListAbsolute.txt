@@ -1,0 +1,10 @@
+C:\Users\18599\Documents\BTD6 Mod Sources\BloonChipperBTD6\obj\Debug\net6.0\BloonChipperBTD6.csproj.AssemblyReference.cache
+C:\Users\18599\Documents\BTD6 Mod Sources\BloonChipperBTD6\obj\Debug\net6.0\BloonChipperBTD6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18599\Documents\BTD6 Mod Sources\BloonChipperBTD6\obj\Debug\net6.0\BloonChipperBTD6.AssemblyInfoInputs.cache
+C:\Users\18599\Documents\BTD6 Mod Sources\BloonChipperBTD6\obj\Debug\net6.0\BloonChipperBTD6.AssemblyInfo.cs
+C:\Users\18599\Documents\BTD6 Mod Sources\BloonChipperBTD6\obj\Debug\net6.0\BloonChipperBTD6.csproj.CoreCompileInputs.cache
+C:\Users\18599\Documents\BTD6 Mod Sources\BloonChipperBTD6\bin\Debug\net6.0\BloonChipperBTD6.deps.json
+C:\Users\18599\Documents\BTD6 Mod Sources\BloonChipperBTD6\bin\Debug\net6.0\BloonChipperBTD6.dll
+C:\Users\18599\Documents\BTD6 Mod Sources\BloonChipperBTD6\obj\Debug\net6.0\BloonChipperBTD6.dll
+C:\Users\18599\Documents\BTD6 Mod Sources\BloonChipperBTD6\obj\Debug\net6.0\refint\BloonChipperBTD6.dll
+C:\Users\18599\Documents\BTD6 Mod Sources\BloonChipperBTD6\obj\Debug\net6.0\ref\BloonChipperBTD6.dll

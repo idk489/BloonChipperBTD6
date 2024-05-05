@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "N+sqXBy7kaAbrkAeuV1E065tLwGQh5TAE4jHQ9a10vA3x/PrgjuuEv7t6rGrwHj1+ZIzUz66NaBbRdBKVVcxnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\18599\\Documents\\BTD6 Mod Sources\\BloonChipperBTD6\\BloonChipperBTD6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\18599\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\18599\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\18599\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
